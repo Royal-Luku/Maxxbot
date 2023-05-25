@@ -18,7 +18,7 @@ class Config(object):
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
-    START_MSG = os.getenv("START_MSG", '''**Hᴇʏ, {}! 😃
+    START_MSG = os.getenv("START_MSG", '''<b>Hᴇʏ, {}! 😃
 
 I Aᴍ A Sɪᴍᴘʟᴇ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Bᴏᴛ. 😅
 
@@ -26,9 +26,9 @@ Yᴏᴜ Cᴀɴ Aᴅᴅ Mᴇ Oɴ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ 🤪
 
 Nᴏᴛᴇ - ɪ ᴄᴀɴ Pʀᴏᴠɪᴅᴇ Yᴏᴜʀ Mᴏᴠɪᴇs Lɪɴᴋs Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ 😜
 
-Fᴏʀ ᴍᴏʀᴇ ɪɴғᴏ Cʟɪᴄᴋ Oɴ Hᴇʟᴘ. ✅**''')
+Fᴏʀ ᴍᴏʀᴇ ɪɴғᴏ Cʟɪᴄᴋ Oɴ Hᴇʟᴘ. ✅</b>''')
     START_PHOTO = os.getenv("START_PHOTO")
-    HOME_TEXT = os.getenv("HOME_TEXT", '''**Hᴇʏ,{}! 😃
+    HOME_TEXT = os.getenv("HOME_TEXT", '''<b>Hᴇʏ,{}! 😃
 
 I Aᴍ A Sɪᴍᴘʟᴇ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Bᴏᴛ. 😅
 
@@ -36,7 +36,7 @@ Yᴏᴜ Cᴀɴ Aᴅᴅ Mᴇ Oɴ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ 🤪
 
 Nᴏᴛᴇ - ɪ ᴄᴀɴ Pʀᴏᴠɪᴅᴇ Yᴏᴜʀ Mᴏᴠɪᴇs Lɪɴᴋs Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Bᴜᴛ Nᴏᴛ Fʀᴇᴇ 😜
 
-Fᴏʀ ᴍᴏʀᴇ ɪɴғᴏ Cʟɪᴄᴋ Oɴ Hᴇʟᴘ. ✅**''')
+Fᴏʀ ᴍᴏʀᴇ ɪɴғᴏ Cʟɪᴄᴋ Oɴ Hᴇʟᴘ. ✅</b>''')
     UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", None)
     DATABASE_URL = os.getenv("DATABASE_URL", "")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", ""))
@@ -55,10 +55,10 @@ Tʜɪs Is Mʏ Aʙᴏᴜᴛ Sᴇᴄᴛɪᴏɴ 🙂</b>
 
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Royaldwip>ROYAL DWIP</a></b>
 
-<b>✯ Oᴜʀ Cʜᴀɴɴᴇʟ: <a href=https://t.me/worldofmovies8>WOM BW MOVIES</a></b>
+<b>✯ Oᴜʀ Cʜᴀɴɴᴇʟ: <a href=https://t.me/+8KKO8_lJaJAxNDk9>WOM BW MOVIES</a></b>
 
 <b>✯ Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ : <a href=https://t.me/womrequest>W.O.M - MOVIE REQUESTS</a></b>''')
-    ABOUT_HELP_TEXT = os.getenv("HELP_TEXT", '''''<b>🍓 RᴇQᴜɪʀᴇᴍᴇɴᴛ ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ!
+    ABOUT_HELP_TEXT = os.getenv("HELP_TEXT", '''<b>🍓 RᴇQᴜɪʀᴇᴍᴇɴᴛ ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ!
 
 🍓 Sᴛᴇᴘ 1 - Aᴘᴋᴏ ᴇᴋ ɢʀᴏᴜᴘ ᴋɪ ᴊᴀʀᴜʀᴀᴛ ʜᴏɢɪ, ᴊɪꜱᴍᴇ ᴍᴇᴍʙᴇʀꜱ ʙʜɪ ʜᴏ, ᴀᴜʀ ᴇᴋ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴋɪ ᴊᴀʀᴜʀᴀᴛ ʜᴏɢɪ, ᴊɪꜱᴍᴇ ᴀᴘᴋᴇ ꜱᴀʀᴇ ᴘᴏꜱᴛ ʜᴏɴɢᴇ!
 
@@ -75,4 +75,4 @@ Tʜɪs Is Mʏ Aʙᴏᴜᴛ Sᴇᴄᴛɪᴏɴ 🙂</b>
 
 🍓 Nᴏᴛᴇ : Bᴏᴛ ᴀᴅᴍɪɴ ᴀᴘᴋᴇ ᴄʜᴀɴɴᴇʟ ᴍᴇ ᴊᴏɪɴ ʜᴏɴᴇ ᴄʜᴀʜɪʏᴇ,
 ᴀɢᴀʀ ʙᴏᴛ ᴀᴅᴍɪɴ ᴀᴘᴋᴀ ʀᴇQᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ɴʜɪ ᴋᴀʀ ʀᴀʜᴇ ʜᴀɪɴ ᴛᴏ ᴜɴʜᴇ ᴘᴇʀꜱᴏɴᴀʟ ᴍꜱɢ ᴋᴀʀᴇɴ.
-👉 @Royaldwip</b>\n\n<b><i>💥 Nᴏᴛᴇ 💥 - Yᴏᴜ Hᴀᴠᴇ Tᴏ Pᴀʏ Pᴇʀ Mᴏɴᴛʜ 20ʀs (INR)</i></b>''')
+👉 @Royaldwip</b>\n\n<b><i>💥 Nᴏᴛᴇ 💥 - Yᴏᴜ Hᴀᴠᴇ Tᴏ Pᴀʏ Pᴇʀ Mᴏɴᴛʜ Oɴʟʏ 25ʀs (INR)</i></b>''')
